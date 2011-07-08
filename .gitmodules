@@ -1,0 +1,30 @@
+[submodule "se.cubecon.bun24.viewpoint"]
+	path = se.cubecon.bun24.viewpoint
+	url = git@github.com:idega/se.cubecon.bun24.viewpoint.git
+[submodule "se.idega.idegaweb.commune.accounting"]
+	path = se.idega.idegaweb.commune.accounting
+	url = git@github.com:idega/se.idega.idegaweb.commune.accounting.git
+[submodule "se.idega.idegaweb.commune.accounting.resource"]
+	path = se.idega.idegaweb.commune.accounting.resource
+	url = git@github.com:idega/se.idega.idegaweb.commune.accounting.resource.git
+[submodule "se.idega.idegaweb.commune.adulteducation"]
+	path = se.idega.idegaweb.commune.adulteducation
+	url = git@github.com:idega/se.idega.idegaweb.commune.adulteducation.git
+[submodule "se.idega.idegaweb.commune.childcare"]
+	path = se.idega.idegaweb.commune.childcare
+	url = git@github.com:idega/se.idega.idegaweb.commune.childcare.git
+[submodule "se.idega.idegaweb.commune.provider"]
+	path = se.idega.idegaweb.commune.provider
+	url = git@github.com:idega/se.idega.idegaweb.commune.provider.git
+[submodule "se.idega.idegaweb.commune.school"]
+	path = se.idega.idegaweb.commune.school
+	url = git@github.com:idega/se.idega.idegaweb.commune.school.git
+[submodule "se.idega.idegaweb.commune.school.accounting"]
+	path = se.idega.idegaweb.commune.school.accounting
+	url = git@github.com:idega/se.idega.idegaweb.commune.school.accounting.git
+[submodule "se.idega.idegaweb.commune.school.placement"]
+	path = se.idega.idegaweb.commune.school.placement
+	url = git@github.com:idega/se.idega.idegaweb.commune.school.placement.git
+[submodule "se.idega.idegaweb.commune.school.statistic"]
+	path = se.idega.idegaweb.commune.school.statistic
+	url = git@github.com:idega/se.idega.idegaweb.commune.school.statistic.git
