@@ -28,3 +28,15 @@
 [submodule "se.idega.idegaweb.commune.school.statistic"]
 	path = se.idega.idegaweb.commune.school.statistic
 	url = git@github.com:idega/se.idega.idegaweb.commune.school.statistic.git
+[submodule "se.idega.idegaweb.commune"]
+	path = se.idega.idegaweb.commune
+	url = git@github.com:idega/se.idega.idegaweb.commune.git
+[submodule "se.idega.block.pki"]
+	path = se.idega.block.pki
+	url = git@github.com:idega/se.idega.block.pki.git
+[submodule "se.idega.idegaweb.commune.care"]
+	path = se.idega.idegaweb.commune.care
+	url = git@github.com:idega/se.idega.idegaweb.commune.care.git
+[submodule "se.idega.util"]
+	path = se.idega.util
+	url = git@github.com:idega/se.idega.util.git
