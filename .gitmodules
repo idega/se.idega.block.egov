@@ -40,3 +40,6 @@
 [submodule "se.idega.util"]
 	path = se.idega.util
 	url = git@github.com:idega/se.idega.util.git
+[submodule "fi.idega.block.nationalregister"]
+	path = fi.idega.block.nationalregister
+	url = git@github.com:idega/fi.idega.block.nationalregister.git
